@@ -19,5 +19,5 @@ function play(user) {
     }
     let myMessage = "Computer chose rock, you " + result + "!"
     alert(myMessage);
-    say(myMessage);
+    /* say(myMessage); */
 }
